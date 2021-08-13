@@ -1,8 +1,7 @@
-### Hi there 👋
+### Olá! Eu sou o Douglas 👋
+✨ Dev Padawan
 
-🌱 I’m currently learning WebDevelopment 
-👯 I’m looking to collaborate on JS Projects
-💬 Ask me about anything
-📫 How to reach me: goudxs@gmail.com
-😄 Pronouns: He/Him
-🌈
+📫 Contate-me no e-mail: goudxs@gmail.com
+
+🌈 Pronomes: ele/dele
+
