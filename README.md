@@ -4,6 +4,7 @@ _✨ Dev Padawan_
 _🌈 Pronomes: ele/dele_
  
 Começando no universo do desenvolvimento de software 🚀
+
 Espero impactar positivamente as pessoas com as habilidades que eu desenvolver nessa jornada e torço para continuar melhorando sempre.
 
 **Change is the end result of all true learning. – Leo Buscaglia**
