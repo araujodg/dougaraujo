@@ -3,9 +3,7 @@ _✨ Dev Padawan_
 
 _🌈 Pronomes: ele/dele_
  
-Começando no universo do desenvolvimento de software 🚀
-
-Criando impactos positivos. 
+_🚀 Começando no universo do desenvolvimento de software e criando impactos positivos._
 
 **Change is the end result of all true learning. – Leo Buscaglia**
 
