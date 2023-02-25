@@ -22,7 +22,7 @@
 ### &nbsp; :gear: &nbsp;Technologies and tools. Always learning!
 
 
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-yellowstyle=flat=square&logo=javascript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
@@ -32,8 +32,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat=square&logo=github&logoColor=white)&nbsp;
-![Test DD](https://img.shields.io/badge/-Test%20DD-orange?style=flat=square)&nbsp;
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
 
 <hr/>
