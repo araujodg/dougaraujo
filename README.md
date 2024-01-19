@@ -4,7 +4,7 @@
 
 ### &nbsp; :man_technologist: About Me
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp; Web Developer Graduating at [Trybe](https://www.betrybe.com/)\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp; Self-taught & Passionate Web Developer\
 &nbsp;&nbsp;&nbsp;:heart: &nbsp; Love for science, cats and innovation.\
 &nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil.
 
@@ -40,6 +40,4 @@
       <img height="157px" src="https://github-readme-stats.vercel.app/api?username=dougaraujo&theme=nightowl&count_private=true&hide_border=true" />
       	<img height="157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaraujo&layout=compact&theme=nightowl&hide_border=true" />
 </p>
-
-**<p align="center">Change is the end result of all true learning. – Leo Buscaglia</p>**
 
