@@ -1,4 +1,4 @@
-## Hi! I'm [Doug](https://www.linkedin.com/in/douglasaraujodev/) 👋
+## Hi! I'm [Doug](https://www.linkedin.com/in/douglasaraujodev/) 👋 🇧🇷
 
 <hr/>
 
@@ -6,7 +6,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 💻 Self-taught & Passionate Web Developer\
 &nbsp;&nbsp;&nbsp;&nbsp; ❤️ Love for science, cats and innovation.\
-&nbsp;&nbsp;&nbsp;&nbsp; 🇧🇷  Living in Brazil.
 
 <p align="center">
   <a href="mailto:devdoug45@gmail.com?subject=Mail%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
